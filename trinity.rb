@@ -2,9 +2,9 @@ require 'formula'
 
 class Trinity < Formula
   homepage 'http://trinityrnaseq.sourceforge.net'
-  version 'r20131110'
+  version 'r20140717'
   url "https://downloads.sourceforge.net/trinityrnaseq/trinityrnaseq_#{version}.tar.gz"
-  sha1 '3207147a1ece0d7f2b4b9dc5aa8e735b3d55cb1d'
+  sha1 'fd559efe2005fb0c568b280a3edf43e25e6e6aba'
 
   depends_on 'bowtie'
 
